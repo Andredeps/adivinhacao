@@ -1,6 +1,3 @@
-from smtpd import MailmanProxy
-
-
 print("=================================")
 print("Bem vindo ao jogo de adivinhação!")
 print("=================================")
